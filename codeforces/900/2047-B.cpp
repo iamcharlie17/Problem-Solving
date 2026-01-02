@@ -33,8 +33,6 @@ int main() {
 
         cout << s << endl;
 
-        // try to backtrack git commit 
-
     }
     return 0;
 }
