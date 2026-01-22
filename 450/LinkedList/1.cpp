@@ -49,8 +49,6 @@ class Solution {
            
            
        }
-       
-       
        return newHead;
     }
 };
